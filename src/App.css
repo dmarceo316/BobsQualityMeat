@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Inline+Display:wght@100&family=Yellowtail&display=swap');
+
+.App {
+  text-align: center;
+}
+
+
+*{
+  font-family: 'Big Shoulders Inline Display', cursive;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.bobs{
+  height: 750px;
+  width: 100%;
+}
+
+.bobs-title{
+  font-family: 'Yellowtail', cursive;
+  font-size: 100px;
+  color: #CC2936;
+}
+
+.bobs-title-2{
+  font-family: 'Big Shoulders Inline Display', cursive;
+  font-size: 50px;
+  font-weight: bold;
+  color: black;
+}
+
+.bobs-nav{
+  color:#CC2936
+}
+
+.mt-100{
+  margin-top: 200px;
+}
+
+.mr-4{
+  margin-right: 20px;
+}
