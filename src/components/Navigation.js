@@ -22,7 +22,7 @@ class Navigation extends Component {
     return (
         <React.Fragment>
             <Navbar dark sticky="top" expand="md" className="md-text" style={styles.container}>
-                <NavbarBrand className="mr-auto md-text bobs-title">Bob's Quality Meats</NavbarBrand>
+                <NavbarBrand className="mr-auto md-text bobs-title-3">Bob's Quality Meats</NavbarBrand>
                 <NavbarToggler onClick={this.toggleNav}/>
                 <Collapse isOpen={this.state.isNavOpen} navbar>
                     <Nav navbar className="mr-auto">
