@@ -5,20 +5,20 @@
     "main.js.map": "/BobsQualityMeat/static/js/main.65abdf62.chunk.js.map",
     "runtime-main.js": "/BobsQualityMeat/static/js/runtime-main.d10273cf.js",
     "runtime-main.js.map": "/BobsQualityMeat/static/js/runtime-main.d10273cf.js.map",
-    "static/css/2.0686f6d0.chunk.css": "/BobsQualityMeat/static/css/2.0686f6d0.chunk.css",
+    "static/css/2.055db5e7.chunk.css": "/BobsQualityMeat/static/css/2.055db5e7.chunk.css",
     "static/js/2.53b624c3.chunk.js": "/BobsQualityMeat/static/js/2.53b624c3.chunk.js",
     "static/js/2.53b624c3.chunk.js.map": "/BobsQualityMeat/static/js/2.53b624c3.chunk.js.map",
     "static/js/3.a8527ab8.chunk.js": "/BobsQualityMeat/static/js/3.a8527ab8.chunk.js",
     "static/js/3.a8527ab8.chunk.js.map": "/BobsQualityMeat/static/js/3.a8527ab8.chunk.js.map",
     "index.html": "/BobsQualityMeat/index.html",
-    "static/css/2.0686f6d0.chunk.css.map": "/BobsQualityMeat/static/css/2.0686f6d0.chunk.css.map",
+    "static/css/2.055db5e7.chunk.css.map": "/BobsQualityMeat/static/css/2.055db5e7.chunk.css.map",
     "static/css/main.557aa09f.chunk.css.map": "/BobsQualityMeat/static/css/main.557aa09f.chunk.css.map",
     "static/js/2.53b624c3.chunk.js.LICENSE.txt": "/BobsQualityMeat/static/js/2.53b624c3.chunk.js.LICENSE.txt",
     "static/media/font-awesome.css": "/BobsQualityMeat/static/media/fontawesome-webfont.f691f37e.woff"
   },
   "entrypoints": [
     "static/js/runtime-main.d10273cf.js",
-    "static/css/2.0686f6d0.chunk.css",
+    "static/css/2.055db5e7.chunk.css",
     "static/js/2.53b624c3.chunk.js",
     "static/css/main.557aa09f.chunk.css",
     "static/js/main.65abdf62.chunk.js"
